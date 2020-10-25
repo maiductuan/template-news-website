@@ -2669,8 +2669,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #4caf50;
-  border-color: #4caf50;
+  background-color: #377dff;
+  border-color: #377dff;
 }
 
 .btn-primary:hover {
@@ -13277,7 +13277,7 @@ button:focus {
 /* Navbar Brand */
 .navbar-brand,
 .navbar-brand > img {
-  width:auto;
+  width: 8.5rem;
 }
 
 /* Navbar Toggler */
@@ -16712,8 +16712,8 @@ a.badge-soft-navy:hover, a.badge-soft-navy:focus {
 }
 
 .btn-primary:hover {
-  background-color: #9c3328;
-  border-color: #9c3328;
+  background-color: #377dff;
+  border-color: #377dff;
 }
 
 /* secondary button :hover, :focus, :active effects */
@@ -23894,42 +23894,7 @@ a:hover .text-hover-primary {
     opacity: 1;
   }
 }
-.xt-ct-menu {
-  position: relative;
-  display: inline-block;
-  margin-bottom: 10px;
-}
 
-.xtlab-ctmenu-item {
-  background-color: #4CAF50;
-  color: white;
-  font-size: 16px;
-  border: none;
-  cursor: pointer;
-}
-.xtlab-ctmenu-item:hover, .xtlab-ctmenu-item:focus {
-  background-color: #9c3328;
-}
-
-.xtlab-ctmenu-sub {
-  display: none;
-  position: absolute;
-  z-index: 10;
-  background-color: #3e8e41;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-}
-.xtlab-ctmenu-sub a {
-  color: white;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
-.xtlab-ctmenu-sub a:hover {
-  background-color: orange;
-  border: none;
-
-}
 /*------------------------------------
   File for your custom SCSS style
 ------------------------------------*/
