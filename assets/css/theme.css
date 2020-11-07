@@ -25221,6 +25221,26 @@ a:hover .text-hover-primary {
     font-size: 8px;
     margin-top: -2px;
     margin-right: 6px;
+    color: black;
+}
+
+.gach h2:hover {
+    border-bottom: 2px solid cornflowerblue;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.size-w {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.content-color p {
+    color: black;
+}
+
+.times {
+    font-size: 11px;
 }
 
 
